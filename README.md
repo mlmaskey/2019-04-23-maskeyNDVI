@@ -1,6 +1,4 @@
-# 2019-04-23-maskeyNDVI
-Normalized Difference Vegetation Index (NDVI) Time Series Data in R
-
+# Normalized Difference Vegetation Index (NDVI) Time Series Data in R
 Presenters: Mahesh L Maskey, Kristen Shapiro, Michelle M Tobias, and Alexander I Mandel 
 
 When: April 23, 2019 (Tuesday)
