@@ -1,2 +1,2 @@
 # 2019-04-23-maskeyNDVI
-Extracting normalized difference vegetation index (NDVI) time series data from Landsat images via R-spatial Packages
+Normalized Difference Vegetation Index (NDVI) Time Series Data in R
